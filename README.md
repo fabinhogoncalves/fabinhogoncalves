@@ -2,7 +2,7 @@
 
 - 🔭 Owner na mega criações
 - 🔭 Atualmente trabalho como Analista de Engenharia TI no Itaú Unibanco
-- 🌱 Cursando 3º semestre em Tecnologia em Sistemas para Internet na Uninove
+- 🌱 Cursando 4º semestre em Tecnologia em Sistemas para Internet na Uninove
 - 📫 Contate-me nos e-mails: fabiano@megacriacoes.com.br | fabinho_o@yahoo.com.br
 
 <div>
