@@ -1,8 +1,7 @@
 ### Fala pessoal! Prazer, eu sou Fabiano Gonçalves 👋
 
-- 🔭 Owner na mega criações
-- 🔭 Atualmente trabalho como Analista de Engenharia TI no Itaú Unibanco
-- 🌱 Cursando 4º semestre em Tecnologia em Sistemas para Internet na Uninove
+- 🔭 Owner na mega criações - Desenvolvimento e Soluções em Informática.
+- 🌱 Terminei o 5º semestre em Tecnologia em Sistemas para Internet na Uninove
 - 📫 Contate-me nos e-mails: fabiano@megacriacoes.com.br | fabinho_o@yahoo.com.br
 
 <div>
