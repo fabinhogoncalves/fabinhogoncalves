@@ -1,4 +1,4 @@
-### Fala pessoal! Prazer, eu sou Fabiano Gonçalves 👋
+### Fala pessoal, prazer! Eu sou Fabiano Gonçalves 👋
 
 - 🔭 Owner na mega criações - Desenvolvimento e Soluções em Informática.
 - 🌱 Terminei o 5º semestre em Tecnologia em Sistemas para Internet na Uninove
